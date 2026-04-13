@@ -59,8 +59,3 @@ I am always looking to expand my skill set. Currently focusing on:
 - Deep Learning & Computer Vision.الوصف: A collection of my professional certifications in Data Science, AI, and Engineering.
 
 
-(101659222_2.pd)
-(IBM DA0101EN Certificate _ edX.pdf)
-(Shahed Salah saleh ferwana - Data Visualization.pdf)
-(Shahed Salah saleh ferwana - Pandas.pdf)
-
